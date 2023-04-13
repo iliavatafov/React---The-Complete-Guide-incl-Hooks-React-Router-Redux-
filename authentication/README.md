@@ -12,20 +12,20 @@
 <hr>
 
 <p>
-    <img src="./images/expense-app.jpg"/>
+    <img src="./images/home.jpg"/>
     <hr>
-    <img src="./images/add-expense.jpg"/>
+    <img src="./images/authentication.jpg"/>
+    <hr>
+    <img src="./images/register.jpg"/>
+    <hr>
+    <img src="./images/events.jpg"/>
+    <hr>
+    <img src="./images/details.jpg"/>
+    <hr>
+    <img src="./images/details-loggedin.jpg"/>
+    <hr>
+    <img src="./images/newsletter.jpg"/>
 <p>
-
-<hr>
-
-<h3 align="center"><i>Technologies </i></h3>
-
-<hr>
-
-<div align="center">
-    <img src="./images/react.png"/>
-</div>
 
 <hr>
 
@@ -33,12 +33,12 @@
 
 <hr>
 
-<p>The expense tracker includes the following features:</p>
+<p>The events application includes the following features:</p>
 
 <ul>
-    <li>Add new expense</li>
-    <li>List all expenses on the selected year</li>
-    <li>Chart with expenses by month</li>
+    <li>Login/Register</li>
+    <li>Create event</li>
+    <li>Edit event</li>
 </ul>
 
 <hr>
@@ -50,6 +50,8 @@
 <ol>
     <li>Download the repository content in a ZIP file.</li>
     <li>Open the project in a suitable IDE, such as VS Code.</li>
-    <li>Navigate to the project folder and run the command "npm install" to install all the dependencies.</li>
+    <li>Navigate to the project backend folder and run the command "npm install" to install all the dependencies.</li>
+    <li>After all dependencies are installed, run the command "npm start" to start the server.</li>
+    <li>Navigate to the project frontend folder and run the command "npm install" to install all the dependencies.</li>
     <li>After all dependencies are installed, run the command "npm start" to start the app.</li>
 </ol>
