@@ -37,6 +37,8 @@
 
 <ul>
     <li>Login/Register</li>
+    <li>List event</li>
+    <li>Detail  views for logged in and not logged in users</li>
     <li>Create event</li>
     <li>Edit event</li>
 </ul>
