@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"> A simple expenses app, providing users to add and track their expenses.
+<p align="center"> A simple meetups app, providing users with option to add meetups and see details about selected meetup.
 </p>
 
 <hr>
@@ -12,9 +12,9 @@
 <hr>
 
 <p>
-    <img src="./images/expense-app.jpg"/>
+    <img src="./images/meetups.jpg"/>
     <hr>
-    <img src="./images/add-expense.jpg"/>
+    <img src="./images/add.jpg"/>
 <p>
 
 <hr>
@@ -33,12 +33,12 @@
 
 <hr>
 
-<p>The expense tracker includes the following features:</p>
+<p>The meetups app includes the following features:</p>
 
 <ul>
-    <li>Add new expense</li>
-    <li>List all expenses on the selected year</li>
-    <li>Chart with expenses by month</li>
+    <li>Add new meetup</li>
+    <li>List all meetups</li>
+    <li>Detail page</li>
 </ul>
 
 <hr>
