@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"> A simple expenses app, providing users to add and track their expenses.
+<p align="center"> A simple events app, providing users to add, edit and delete events.
 </p>
 
 <hr>
@@ -33,7 +33,7 @@
 
 <hr>
 
-<p>The events application includes the following features:</p>
+<p>The events app includes the following features:</p>
 
 <ul>
     <li>Login/Register</li>
