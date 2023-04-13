@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"> A simple expenses app, providing users to add and track their expenses.
+<p align="center"> A simple food order app, providing users to add products in card and manipulate the count of the order.
 </p>
 
 <hr>
@@ -12,9 +12,9 @@
 <hr>
 
 <p>
-    <img src="./images/expense-app.jpg"/>
+    <img src="./images/home.jpg"/>
     <hr>
-    <img src="./images/add-expense.jpg"/>
+    <img src="./images/cart.jpg"/>
 <p>
 
 <hr>
@@ -33,12 +33,12 @@
 
 <hr>
 
-<p>The expense tracker includes the following features:</p>
+<p>The food order app includes the following features:</p>
 
 <ul>
-    <li>Add new expense</li>
-    <li>List all expenses on the selected year</li>
-    <li>Chart with expenses by month</li>
+    <li>Add product in the cart</li>
+    <li>Increase/decrease count of product in the cart</li>
+    <li>Remove product from cart when count is 0</li>
 </ul>
 
 <hr>
