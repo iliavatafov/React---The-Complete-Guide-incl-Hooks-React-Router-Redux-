@@ -2,8 +2,7 @@
 
 <br>
 
-<p align="center"> A simple expenses app, providing users to add and track their expenses.
-</p>
+<p align="center"> A simple demo app for testing React Transition Library.</p>
 
 <hr>
 
@@ -12,20 +11,10 @@
 <hr>
 
 <p>
-    <img src="./images/expense-app.jpg"/>
+    <img src="./images/home.jpg"/>
     <hr>
-    <img src="./images/add-expense.jpg"/>
+    <img src="./images/modal.jpg"/>
 <p>
-
-<hr>
-
-<h3 align="center"><i>Technologies </i></h3>
-
-<hr>
-
-<div align="center">
-    <img src="./images/react.png"/>
-</div>
 
 <hr>
 
@@ -33,12 +22,12 @@
 
 <hr>
 
-<p>The expense tracker includes the following features:</p>
+<p>The demo app includes the following features:</p>
 
 <ul>
-    <li>Add new expense</li>
-    <li>List all expenses on the selected year</li>
-    <li>Chart with expenses by month</li>
+    <li>Add items</li>
+    <li>Toggle button</li>
+    <li>Moddal</li>
 </ul>
 
 <hr>
