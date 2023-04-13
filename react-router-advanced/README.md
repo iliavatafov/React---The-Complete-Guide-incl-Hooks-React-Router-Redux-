@@ -1,8 +1,8 @@
-<h1 align="center"><i>Expenses Tracker</i></h1>
+<h1 align="center"><i>Events App</i></h1>
 
 <br>
 
-<p align="center"> A simple expenses app, providing users to add and track their expenses.
+<p align="center"> A simple events app, providing users to add, edit and delete events.
 </p>
 
 <hr>
@@ -12,20 +12,20 @@
 <hr>
 
 <p>
-    <img src="./images/expense-app.jpg"/>
+    <img src="./images/home.jpg"/>
     <hr>
-    <img src="./images/add-expense.jpg"/>
+    <img src="./images/authentication.jpg"/>
+    <hr>
+    <img src="./images/register.jpg"/>
+    <hr>
+    <img src="./images/events.jpg"/>
+    <hr>
+    <img src="./images/details.jpg"/>
+    <hr>
+    <img src="./images/details-loggedin.jpg"/>
+    <hr>
+    <img src="./images/newsletter.jpg"/>
 <p>
-
-<hr>
-
-<h3 align="center"><i>Technologies </i></h3>
-
-<hr>
-
-<div align="center">
-    <img src="./images/react.png"/>
-</div>
 
 <hr>
 
@@ -33,12 +33,14 @@
 
 <hr>
 
-<p>The expense tracker includes the following features:</p>
+<p>The events app includes the following features:</p>
 
 <ul>
-    <li>Add new expense</li>
-    <li>List all expenses on the selected year</li>
-    <li>Chart with expenses by month</li>
+    <li>Login/Register</li>
+    <li>List event</li>
+    <li>Detail  views for logged in and not logged in users</li>
+    <li>Create event</li>
+    <li>Edit event</li>
 </ul>
 
 <hr>
@@ -50,6 +52,8 @@
 <ol>
     <li>Download the repository content in a ZIP file.</li>
     <li>Open the project in a suitable IDE, such as VS Code.</li>
-    <li>Navigate to the project folder and run the command "npm install" to install all the dependencies.</li>
+    <li>Navigate to the project backend folder and run the command "npm install" to install all the dependencies.</li>
+    <li>After all dependencies are installed, run the command "npm start" to start the server.</li>
+    <li>Open second terminal. Navigate to the project frontend folder and run the command "npm install" to install all the dependencies.</li>
     <li>After all dependencies are installed, run the command "npm start" to start the app.</li>
 </ol>
