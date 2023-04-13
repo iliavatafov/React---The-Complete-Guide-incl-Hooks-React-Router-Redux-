@@ -12,19 +12,7 @@
 <hr>
 
 <p>
-    <img src="./images/home.jpg"/>
-    <hr>
-    <img src="./images/authentication.jpg"/>
-    <hr>
-    <img src="./images/register.jpg"/>
-    <hr>
-    <img src="./images/events.jpg"/>
-    <hr>
-    <img src="./images/details.jpg"/>
-    <hr>
     <img src="./images/details-loggedin.jpg"/>
-    <hr>
-    <img src="./images/newsletter.jpg"/>
 <p>
 
 <hr>
@@ -36,11 +24,11 @@
 <p>The events app includes the following features:</p>
 
 <ul>
-    <li>Login/Register</li>
     <li>List event</li>
-    <li>Detail  views for logged in and not logged in users</li>
+    <li>Detail page</li>
     <li>Create event</li>
     <li>Edit event</li>
+    <li>Delete event</li>
 </ul>
 
 <hr>
