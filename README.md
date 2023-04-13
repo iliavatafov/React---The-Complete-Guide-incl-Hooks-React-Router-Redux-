@@ -4,6 +4,6 @@ A simple portfolio of training projects developed during a course on Udemy. The 
 
 <hr>
 
-<img src="./certificate/certificate.jpg" alt="certificate">
+<img src="./certificates/certificate.jpg" alt="certificate">
 
 <hr>
