@@ -1,4 +1,4 @@
-<h1 align="center"><i>Newsletter App</i></h1>
+<h1 align="center"><i>Events App</i></h1>
 
 <br>
 
