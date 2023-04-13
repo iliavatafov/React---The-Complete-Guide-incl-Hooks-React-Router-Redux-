@@ -1,4 +1,4 @@
-<h1 align="center"><i>Demo App Test React Transition Library</i></h1>
+<h1 align="center"><i>Demo App For Testing React Transition Library</i></h1>
 
 <br>
 
