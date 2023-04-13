@@ -1,4 +1,4 @@
-<h1 align="center"><i>Expenses Tracker</i></h1>
+<h1 align="center"><i>Food Ordering App</i></h1>
 
 <br>
 
