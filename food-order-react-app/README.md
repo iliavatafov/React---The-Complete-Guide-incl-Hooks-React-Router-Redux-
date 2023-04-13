@@ -19,16 +19,6 @@
 
 <hr>
 
-<h3 align="center"><i>Technologies </i></h3>
-
-<hr>
-
-<div align="center">
-    <img src="./images/react.png"/>
-</div>
-
-<hr>
-
 <h3 align="center"><i>Features</i></h3>
 
 <hr>
