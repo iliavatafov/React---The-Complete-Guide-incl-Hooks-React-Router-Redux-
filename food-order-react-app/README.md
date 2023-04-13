@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"> A simple food order app, providing users to add products in card and manipulate the count of the order.
+<p align="center"> A simple food order app, providing users with option to add products in the cart and manipulate the count of the ordered products.
 </p>
 
 <hr>
