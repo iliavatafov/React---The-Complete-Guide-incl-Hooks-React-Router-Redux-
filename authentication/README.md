@@ -52,6 +52,6 @@
     <li>Open the project in a suitable IDE, such as VS Code.</li>
     <li>Navigate to the project backend folder and run the command "npm install" to install all the dependencies.</li>
     <li>After all dependencies are installed, run the command "npm start" to start the server.</li>
-    <li>Navigate to the project frontend folder and run the command "npm install" to install all the dependencies.</li>
+    <li>Open second terminal. Navigate to the project frontend folder and run the command "npm install" to install all the dependencies.</li>
     <li>After all dependencies are installed, run the command "npm start" to start the app.</li>
 </ol>
