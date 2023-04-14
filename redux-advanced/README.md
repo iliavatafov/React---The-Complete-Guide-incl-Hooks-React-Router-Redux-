@@ -1,8 +1,8 @@
-<h1 align="center"><i>Expenses Tracker</i></h1>
+<h1 align="center"><i>Bookstore App</i></h1>
 
 <br>
 
-<p align="center"> A simple expenses app, providing users to add and track their expenses.
+<p align="center"> A simple bookstore app, providing users to add book to cart and manipulate the count of each product in the cart.
 </p>
 
 <hr>
@@ -12,20 +12,12 @@
 <hr>
 
 <p>
-    <img src="./images/expense-app.jpg"/>
+    <img src="./images/home.jpg"/>
     <hr>
-    <img src="./images/add-expense.jpg"/>
+    <img src="./images/home-notification.jpg"/>
+    <hr>
+    <img src="./images/cart.jpg"/>
 <p>
-
-<hr>
-
-<h3 align="center"><i>Technologies </i></h3>
-
-<hr>
-
-<div align="center">
-    <img src="./images/react.png"/>
-</div>
 
 <hr>
 
@@ -33,12 +25,12 @@
 
 <hr>
 
-<p>The expense tracker includes the following features:</p>
+<p>The bookstore app includes the following features:</p>
 
 <ul>
-    <li>Add new expense</li>
-    <li>List all expenses on the selected year</li>
-    <li>Chart with expenses by month</li>
+    <li>Add book in the cart</li>
+    <li>Status notification when user add new book in the cart</li>
+    <li>Option to manipulate count of each product in the cart</li>
 </ul>
 
 <hr>
