@@ -1,8 +1,8 @@
-<h1 align="center"><i>Expenses Tracker</i></h1>
+<h1 align="center"><i>Dummy Goals App</i></h1>
 
 <br>
 
-<p align="center"> A simple expenses app, providing users to add and track their expenses.
+<p align="center"> A goals app, providing users to add and delete goals.
 </p>
 
 <hr>
@@ -12,34 +12,8 @@
 <hr>
 
 <p>
-    <img src="./images/expense-app.jpg"/>
-    <hr>
-    <img src="./images/add-expense.jpg"/>
+    <img src="./images/home.jpg"/>
 <p>
-
-<hr>
-
-<h3 align="center"><i>Technologies </i></h3>
-
-<hr>
-
-<div align="center">
-    <img src="./images/react.png"/>
-</div>
-
-<hr>
-
-<h3 align="center"><i>Features</i></h3>
-
-<hr>
-
-<p>The expense tracker includes the following features:</p>
-
-<ul>
-    <li>Add new expense</li>
-    <li>List all expenses on the selected year</li>
-    <li>Chart with expenses by month</li>
-</ul>
 
 <hr>
 
